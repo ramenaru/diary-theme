@@ -20,6 +20,8 @@
   translation: Tema para Hugo
 - id: ported_from
   translation: Basado en
+- id: build_with
+  translation: Construir con
 - id: by
   translation: por
 - id: draft

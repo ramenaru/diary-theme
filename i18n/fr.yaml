@@ -20,6 +20,8 @@
   translation: Theme Hugo
 - id: ported_from
   translation: Adapté de
+- id: build_with
+  translation: Construire avec
 - id: by
   translation: par
 - id: draft

@@ -1,0 +1,30 @@
+- id: last_mod_on
+  translation: 最終更新日 {{ .Format "2006-01-02" }}
+- id: format_date
+  translation: '{{ .Format "2006年01月02日" }}'
+- id: format_date_tosec
+  translation: '{{ .Format "2006年01月02日 15:04" }}'
+- id: next_link
+  translation: 次へ
+- id: prev_link
+  translation: 前へ
+- id: no_newer_posts
+  translation: 新しい投稿はありません
+- id: no_older_posts
+  translation: 過去の投稿はありません
+- id: comments_disabled
+  translation: コメントは無効です
+- id: comments_activate_js
+  translation: コメントを表示するにはJavaScriptを有効にしてください
+- id: hugo_theme
+  translation: Hugoテーマ
+- id: ported_from
+  translation: 移植元
+- id: build_with
+  translation: 構築
+- id: by
+  translation: 製作者
+- id: draft
+  translation: 下書き
+- id: toc_title
+  translation: 目次

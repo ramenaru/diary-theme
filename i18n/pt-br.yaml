@@ -20,6 +20,8 @@
   translation: Tema do Hugo
 - id: ported_from
   translation: Criado a partir de
+- id: build_with
+  translation: Construir com
 - id: by
   translation: por
 - id: draft
